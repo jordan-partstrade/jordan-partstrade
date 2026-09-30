@@ -10,8 +10,8 @@ I build practical tools for everyday international trade work: documents, freigh
 
 | Project | What it does |
 | --- | --- |
-| **[Trade Agent Skills](https://github.com/fzy476598462-afk/trade-agent-skills)** | Invoice XLSX, freight estimates and RFQ translation that keeps images and formulas. Local scripts + agent skills. |
-| **[Agent Handoff · Review · Verify](https://github.com/fzy476598462-afk/agent-handoff-review-verify)** | A workflow for independent plan review and checking the actual result when agents hand work over. |
+| **[Trade Agent Skills](https://github.com/fzy476598462-afk/trade-agent-skills)** | Eight local tools: invoices, supplier RFQs, multi-model quotes, quote checks, freight, landed costs and workbook translation / edits. |
+| **[Agent Handoff · Review · Verify](https://github.com/fzy476598462-afk/agent-handoff-review-verify)** | Runnable website visitor checks and an agent verification template, with a handoff workflow and fictional examples. |
 | **[Senz / Personal site](https://partstradeai.com/)** | My home for projects, experiments and things I make. |
 
 ### Try something
