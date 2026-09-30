@@ -1,21 +1,21 @@
-<p align="center"><img src="https://raw.githubusercontent.com/fzy476598462-afk/fzy476598462-afk/main/assets/banner.svg" alt="Jordan — practical tools for trade, built in the open" width="900"></p>
+<h1 align="center">Jordan · 把日常工作的麻烦做成工具</h1>
 
-<p align="center"><a href="https://partstradeai.com/">Projects</a> · <a href="https://github.com/fzy476598462-afk/trade-agent-skills">Trade Agent Skills</a></p>
+<p align="center"><a href="https://partstradeai.com/">个人站</a> · <a href="https://github.com/fzy476598462-afk/trade-agent-skills">外贸工具库</a> · <a href="README.en.md">English</a></p>
 
-I build practical tools for everyday international trade work: documents, freight and spreadsheets.
+我做一些日常外贸工作中能直接用上的小工具：处理单据、询报价、运费和表格。
 
 把工作里反复遇到的麻烦做成工具。这里放可以实际使用、可以自己修改的公开作品。
 
-### On the workbench
+### 已公开的作品
 
-| Project | What it does |
+| 项目 | 能帮你做什么 |
 | --- | --- |
-| **[Trade Agent Skills](https://github.com/fzy476598462-afk/trade-agent-skills)** | Eight local tools: invoices, supplier RFQs, multi-model quotes, quote checks, freight, landed costs and workbook translation / edits. |
-| **[Agent Handoff · Review · Verify](https://github.com/fzy476598462-afk/agent-handoff-review-verify)** | Runnable website visitor checks and an agent verification template, with a handoff workflow and fictional examples. |
-| **[Senz / Personal site](https://partstradeai.com/)** | My home for projects, experiments and things I make. |
+| **[外贸实用工具](https://github.com/fzy476598462-afk/trade-agent-skills)** | 八个工具：发票与装箱单、带图询价单、多车型报价、报价检查、运费估算、门到门成本比较、表格翻译和局部修改。 |
+| **[Agent 交接与验收](https://github.com/fzy476598462-afk/agent-handoff-review-verify)** | 网站访客检查、通用自验模板，以及从交接到实际验收的流程。附可以运行的虚构样例。 |
+| **[Senz · 个人站](https://partstradeai.com/)** | 放我的项目、小实验和做出来的东西。 |
 
-### Try something
+### 直接试用
 
-[Start with Trade Agent Skills →](https://github.com/fzy476598462-afk/trade-agent-skills#get-started)
+[从外贸工具库开始 →](https://github.com/fzy476598462-afk/trade-agent-skills#直接试用)
 
-Bring a fictional sample, try the tool, and [tell me what broke or what would save you time](https://github.com/fzy476598462-afk/trade-agent-skills/issues). 中文 / English.
+用一份虚构样例试试看。如果发现问题，或有能省时间的新需求，可以[在这里反馈](https://github.com/fzy476598462-afk/trade-agent-skills/issues)。请勿上传客户资料、真实报价或私人联系方式。
