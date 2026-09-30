@@ -8,6 +8,6 @@
 <text x="53" y="211" font-family="Arial, sans-serif" font-size="27" fill="#c8ddd1">Trade work. Useful tools. Small experiments.</text>
 <text x="54" y="256" font-family="Arial, sans-serif" font-size="18" fill="#91a8ab">Built from the things I do every day.</text>
 <rect x="53" y="302" width="196" height="3" rx="1" fill="#e78550"/>
-<text x="53" y="336" font-family="Arial, sans-serif" font-size="12" letter-spacing="2" fill="#91a8ab">BRACE AUTO PARTS / OPEN SOURCE / SENZ</text>
+<text x="53" y="336" font-family="Arial, sans-serif" font-size="12" letter-spacing="2" fill="#91a8ab">TRADE TOOLS / OPEN SOURCE / EXPERIMENTS</text>
 <g transform="translate(876 61) rotate(-7 100 110)"><rect x="12" y="12" width="225" height="236" rx="14" fill="#0c1e27"/><rect width="225" height="236" rx="14" fill="#f6f2e9"/><rect x="24" y="28" width="91" height="13" rx="4" fill="#172b36"/><rect x="24" y="62" width="176" height="23" rx="4" fill="#0f766e"/><path d="M24 105h176M24 134h176M24 163h176" stroke="#d6ded7" stroke-width="6"/><rect x="24" y="195" width="90" height="12" rx="3" fill="#a4bbb0"/><circle cx="193" cy="204" r="35" fill="#e78550"/><path d="m178 204 11 11 23-24" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/></g>
 </svg>
